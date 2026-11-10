@@ -4,7 +4,9 @@ Version 2026-11-05
 
 What is stored: the email address you sign up with, your display name, and whatever you or an AI assistant acting for you enter: people, organizations, openings, applications, notes, and documents you upload.
 
-Who can see it: you, and any AI assistant you connect with your own API token. I can access the database to operate and support the service, and will not read your notes or documents except to fix a problem you report. Your data is not sold, and is not shared with third parties except the providers that host and run the service.
+Invite requests: if you ask for an invite on talliard.com, the email address you leave is stored, with your answers to the optional questions after it, and is used only to send your invite and to decide who is invited first.
+
+Who can see it: you, and any AI assistant you connect to your account. We can access the database to operate and support the service, and will not read your notes or documents except to fix a problem you report. Your data is not sold, and is not shared with third parties except the providers that host and run the service.
 
 Where it lives: with reputable cloud providers, which may store and process it outside your country.
 

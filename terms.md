@@ -2,7 +2,7 @@
 
 Version 2026-10-21
 
-This service is a personal system of record for a job search, run by Aaron Lipeles. It is free, in beta, and access is by invitation.
+This service is a ledger for a personal career network or job search. It is free, in beta, and access is by invitation.
 
 Being a beta user includes two things. You will receive occasional product update emails; each has an unsubscribe link, and unsubscribing ends your participation in the beta. And your activity and content may be used for aggregate research as described in the Privacy Policy. If you don't want either, please don't use the service.
 
