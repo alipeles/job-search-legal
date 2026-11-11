@@ -14,7 +14,7 @@ Research: as a beta user your data may be used for aggregate research into what 
 
 Usage logging: the service records which screens and tools are used and when, to operate and improve it.
 
-Session recording: during the beta, sessions in the app may be recorded and watched to fix what trips people up; text and data are masked in the recordings.
+Session recording: during the beta, sessions in the app may be recorded and watched to fix what trips people up. The recordings show the app's own words, such as buttons, headings and error messages, and hide your records and anything you type.
 
 Error reports: when something fails, the service sends a report of the failure, with your account id and the screen or tool involved but not what you wrote, to the provider that tracks errors.
 
